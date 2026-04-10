@@ -7,7 +7,7 @@ systems through hands-on projects.
 
 ### What I'm working on
 
-- 🃏 **[card-price-tracker](https://github.com/Threetreestond/card-price-tracker)** — Python + FastAPI + SQLite price tracker and deck builder for the *Sorcery: Contested Realm* TCG. My first real Python project; currently being refactored with type hints, pytest, and proper architecture.
+- 🃏 **[card-price-tracker](https://github.com/tneseyifdeakin/card-price-tracker)** — Python + FastAPI + SQLite price tracker and deck builder for the *Sorcery: Contested Realm* TCG. My first real Python project; currently being refactored with type hints, pytest, and proper architecture.
 - 📚 Working through a 24–30 month roadmap from data analyst to AI Engineer. Currently in Phase 1: Python consolidation.
 
 ### Stack I'm building fluency in
